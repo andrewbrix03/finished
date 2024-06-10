@@ -1,0 +1,64 @@
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.csproj.AssemblyReference.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesign.Blank.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.ElectricalForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesign.LoginPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.InternetForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.PaymentPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesign.RegisterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.WaterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.csproj.GenerateResource.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\bin\Debug\BillingSystemDesgin.exe.config
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\bin\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\bin\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.Properties.Resources.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.csproj.CoreCompileInputs.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\system\obj\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\bin\Debug\BillingSystemDesgin.exe.config
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\bin\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\bin\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.csproj.AssemblyReference.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesign.Blank.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.ElectricalForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesign.LoginPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.InternetForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.PaymentPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.Properties.Resources.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesign.RegisterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.WaterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.csproj.GenerateResource.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.csproj.CoreCompileInputs.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\partly-finished-\obj\Debug\BillingSystemDesgin.pdb
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\bin\Debug\BillingSystemDesgin.exe.config
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\bin\Debug\BillingSystemDesgin.exe
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\bin\Debug\BillingSystemDesgin.pdb
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesign.Blank.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.ElectricalForm.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesign.LoginPage.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.InternetForm.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.PaymentPage.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.Properties.Resources.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesign.RegisterForm.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.WaterForm.resources
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.exe
+C:\Users\user\source\repos\PA-AYOS-NG-UI-PWEDE-BA\obj\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\bin\Debug\BillingSystemDesgin.exe.config
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\bin\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\bin\Debug\BillingSystemDesgin.pdb
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.csproj.AssemblyReference.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesign.Blank.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.ElectricalForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesign.LoginPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.InternetForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.PaymentPage.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.Properties.Resources.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesign.RegisterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.WaterForm.resources
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.csproj.GenerateResource.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.csproj.CoreCompileInputs.cache
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.exe
+C:\Users\EJ KENSHIN FLORENCE\Source\Repos\gusto-ko-na-matulog\obj\Debug\BillingSystemDesgin.pdb
